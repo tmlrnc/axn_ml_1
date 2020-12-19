@@ -1,7 +1,9 @@
 # ml
 SETUP 
 git pull 
+
 bash setup.sh
+
 source activate 
 
 RUN
